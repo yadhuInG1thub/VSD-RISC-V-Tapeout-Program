@@ -1,6 +1,7 @@
 # Week 0 EDA tools installations:
 
 ## yosys
+
 ```bash
 $ sudo apt-get update 
 $ git clone https://github.com/YosysHQ/yosys.git 
@@ -14,4 +15,20 @@ $ make config-gcc
 $ make  
 $ sudo make install
 ```
-![yosys done](Screenshots/yosys_installation_done.jpeg)
+![yosys done](Screenshots/yosys.png)
+
+## iverilog 
+
+```bash
+$ sudo apt-get update 
+$ sudo apt-get install iverilog 
+```
+![iverilog done](Screenshots/iverilog.png)
+
+## gtkwave
+
+```bash
+$ sudo apt-get update 
+$ sudo apt install gtkwave 
+```
+![gtkwave done](Screenshots/gtkwave.png)
