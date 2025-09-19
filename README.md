@@ -4,7 +4,7 @@ A repo to document my progress in the RISC‑V Reference SoC Tapeout Program!
 ## ⏲️Week 0
 * Inauguration of the program 
 * Installing the necessary open-source EDA tools for the program
-  Completion of week0 tasks: [week0 sub-directory](Week0/README.md)
+* Completion of week0 tasks: [week0 sub-directory](Week0/README.md)
 
 ## Acknowledgement
 
