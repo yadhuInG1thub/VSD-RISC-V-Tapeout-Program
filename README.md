@@ -10,5 +10,4 @@ A repo to document my progress in the RISC‑V Reference SoC Tapeout Program!
 
 ## Acknowledgement
 
-Thanking [**Kunal Ghosh**](https://github.com/kunalg123) and Team **[VLSI System Design (VSD)](https://vsdiat.vlsisystemdesign.com/)** for this wonderful program in RISC-V and thus digital VLSI.
-
+Thanking [**Kunal Ghosh**](https://github.com/kunalg123) and Team **[VLSI System Design (VSD)](https://vsdiat.vlsisystemdesign.com/)** for this free program, enabling me to learn about the core principles of Digital VLSI.
